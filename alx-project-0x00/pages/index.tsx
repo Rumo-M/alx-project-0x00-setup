@@ -1,9 +1,6 @@
-import React from 'react';
+import Card from '@/components/Card';
 
-export default function Home() {
-  return (
-    <main>
-      <h1>Welcome to your Next.js App</h1>
-    </main>
-  );
-}
+<Card
+  title="Explore Listings"
+  description="Find amazing places to stay around the world."
+/>
