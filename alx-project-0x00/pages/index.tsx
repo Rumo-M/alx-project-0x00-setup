@@ -3,8 +3,8 @@ import React from 'react';
 const Home: React.FC = () => {
   return (
     <div>
-      {/* Your JSX here */}
-      Welcome to the Home page!
+      <h1>Airbnb Application Clone system</h1>
+      {/* other content */}
     </div>
   );
 };
