@@ -1,6 +1,12 @@
-import Card from '@/components/Card';
+import React from 'react';
 
-<Card
-  title="Explore Listings"
-  description="Find amazing places to stay around the world."
-/>
+const Home: React.FC = () => {
+  return (
+    <div>
+      {/* Your JSX here */}
+      Welcome to the Home page!
+    </div>
+  );
+};
+
+export default Home;
